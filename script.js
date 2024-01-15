@@ -11,7 +11,7 @@
 
 // Object containing words and definitions
 const options = {
-    //seventh set of spellings (from 13 Jan 2024)
+    // seventh set of spellings (from 13 Jan 2024)
     especially: "adverb. Synonym for 'particularly'",
     existence: "abstract noun. The way you live your life.",
     explanation: "abstract noun. When you tell someone how something works", 
@@ -22,7 +22,7 @@ const options = {
     frequently: "adverb. When something happens often", 
     gnash: "verb. To grind your teeth together quickly.", 
     government: "noun. The people who are responsible for running the country", 
-    // "eleven-year-old": "someone who is eleven years old", 
+    "eleven-year-old": "someone who is eleven years old", 
     harass: "to annoy someone regularly", 
     hesitancy: "a state of pausing before acting",
     higher: "adjective. The antonym of 'lower'", 
