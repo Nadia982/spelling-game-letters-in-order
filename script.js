@@ -11,22 +11,39 @@
 
 // Object containing words and definitions
 const options = {
+  //eight set of spellings (from 26 Jan 2024)
+
+  hire: "Verb. To pay to borrow an item for a fixed length of time.",
+  higher: "Adjective. The antonym of 'lower'",
+  hoarse: "Adjective. When someone's voice sounds rough, especially when they have a cough or cold",
+  illegible: "Adjective. Difficult or impossible to read.",
+  immediate: "Adjective. A synonym of 'straight away'",
+  impassible: "Adjective. A road or route that cannot be travelled on",
+  implausible: "Adjective. A synonym of 'unbelievable' or 'improbable'",
+  impossible: "Adjective. When something cannot happen.",
+  independence: "Noun. When a person or people can manage by themselves or govern/rule themselves.",
+  insignificant: "Adjective. A synonym of 'unimportant' or 'trivial'",
+  intangible: "Adjective. A synonym of 'untouchable'",
+  irrelevant: "Adjective. Beside the point or not connected to the matter at hand.",
+  jeopardy: "Noun. Danger. You would be in ________ if you were alone with a leopard!",
+  subconscious: "Adjective when relating to thoughts that you are not aware of. Noun when talking about the part of the mind that has thoughts you are not aware of.",
+
     // seventh set of spellings (from 13 Jan 2024)
-    especially: "adverb. Synonym for 'particularly'",
-    existence: "abstract noun. The way you live your life.",
-    explanation: "abstract noun. When you tell someone how something works", 
-    feasible: "adjective. When it is possible to do something.",
-    financial: "adjective. Relating to money", 
-    foreign: "adjective. From a different country", 
-    frequency: "noun. How often something happens in a given timeframe", 
-    frequently: "adverb. When something happens often", 
-    gnash: "verb. To grind your teeth together quickly.", 
-    government: "noun. The people who are responsible for running the country", 
-    "eleven-year-old": "someone who is eleven years old", 
-    harass: "to annoy someone regularly", 
-    hesitancy: "a state of pausing before acting",
-    higher: "adjective. The antonym of 'lower'", 
-    hindrance: "noun. Something that affects your plans or progress."
+    // especially: "adverb. Synonym for 'particularly'",
+    // existence: "abstract noun. The way you live your life.",
+    // explanation: "abstract noun. When you tell someone how something works", 
+    // feasible: "adjective. Something that is possible or do-able.",
+    // financial: "adjective. Relating to money", 
+    // foreign: "adjective. From a different country", 
+    // frequency: "noun. How often something happens in a given timeframe", 
+    // frequently: "adverb. When something happens often", 
+    // gnash: "verb. To grind your teeth together quickly.", 
+    // government: "noun. The people who are responsible for running the country", 
+    // "eleven-year-old": "someone who is eleven years old", 
+    // harass: "to annoy someone regularly", 
+    // hesitancy: "a state of pausing before acting",
+     
+    // hindrance: "noun. Something that affects your plans or progress."
     
       // sixth set of spellings (from 1 Dec 2023)
     //   bridal: "relating to a female on her wedding day" ,
