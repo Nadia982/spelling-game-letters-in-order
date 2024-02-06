@@ -18,7 +18,7 @@ const options = {
   hoarse: "Adjective. When someone's voice sounds rough, especially when they have a cough or cold",
   illegible: "Adjective. Difficult or impossible to read.",
   immediate: "Adjective. A synonym of 'straight away'",
-  impassible: "Adjective. A road or route that cannot be travelled on",
+  impassable: "Adjective. A road or route that cannot be travelled on",
   implausible: "Adjective. A synonym of 'unbelievable' or 'improbable'",
   impossible: "Adjective. When something cannot happen.",
   independence: "Noun. When a person or people can manage by themselves or govern/rule themselves.",
