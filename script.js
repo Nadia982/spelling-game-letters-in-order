@@ -589,10 +589,15 @@ vacancy: "Abstract noun: an available space.",
     
       showChances();
       //Creating alphabet letter buttons
-      for (let i = 39; i < 91; i++) {
-          if (![40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64].includes(i)) {
-        let button = document.createElement("button");
-        button.classList.add("letters");
+      // for (let i = 39; i < 91; i++) {
+      //     if (![40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64].includes(i)) {
+      //   let button = document.createElement("button");
+      //   button.classList.add("letters");
+
+      [81,87, 69, 82, 84, 89, 85,73,79,80,45, 65,83, 68, 70, 71, 72, 74, 75, 76, 39,90, 88, 67,86,66,78,77].forEach((i) => {
+      
+      let button = document.createElement("button");
+      button.classList.add("letters");
     
         //Number to ASCII[A-Z]
         button.innerText = String.fromCharCode(i);
@@ -712,9 +717,11 @@ vacancy: "Abstract noun: an available space.",
         });
         //Append generated buttons to the letters container
         letterContainer.appendChild(button);
-      }
-    }
+      
+    })
+    
     };
+    
     
     window.onload = () => {
       initialFunction();
