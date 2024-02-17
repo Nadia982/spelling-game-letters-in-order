@@ -33,9 +33,12 @@
   }
   
   .top-wrapper {
-    display: flex;
+    /* display: flex;
     justify-content: space-between;
-    flex-direction: column;
+    flex-direction: column; */
+    border: 1px solid red;
+    width: 95vw;
+    margin: 0 auto;
   }
   
   .controls-container {
@@ -215,14 +218,11 @@
       line-height: 0.9;
     }
   
-    /* .icon {
-      font-size: 1.5rem;
-    } */
   
     #letter-container button {
       width: 8.1vw;
       font-size: 1.2rem;
-      margin: 1em .05em;
+      margin: .5em 0;
     }
   }
   
