@@ -594,7 +594,7 @@ vacancy: "Abstract noun: an available space.",
       //   let button = document.createElement("button");
       //   button.classList.add("letters");
 
-      [81,87, 69, 82, 84, 89, 85,73,79,80,45, 65,83, 68, 70, 71, 72, 74, 75, 76, 39,90, 88, 67,86,66,78,77].forEach((i) => {
+      [81,87, 69, 82, 84, 89, 85,73,79,80, 65,83, 68, 70, 71, 72, 74, 75, 76,39,90, 88, 67,86,66,78,77,45].forEach((i) => {
       
       let button = document.createElement("button");
       button.classList.add("letters");
