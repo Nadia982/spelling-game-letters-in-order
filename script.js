@@ -11,23 +11,41 @@
 
 // Object containing words and definitions
 const options = {
-//ninth set of spellings (13 Feb 2024)
-fasten: "Verb: to do up or make tighter.", 
-kneed: "Verb (past tense): to hit someone with your knee.",
-knead: "Verb: to massage dough with your hands when cooking.",
-kneel: "Verb: to get on your knees",
-knitted: "Verb (past tense): made of wool",
-knight: "Concete noun: an armoured soldier from the Middle Ages.",
-knowledge: "Abstract noun: information that someone knows.",
-language: "Abstract noun: words and grammatical rules that set out how groups of people from different countries communicate with each other.",
-lightning: "Noun: a weather phenomenon that causes a flash of light in the sky.",
-malicious: "Adjective: someone who intends to do harm.",
-mischievous: "Adjective: someone who likes to misbehave in a playful way.",
-misconceived: "Adjective: wrongly planned or judged.",
-morning: "Abstract noun: the period of time before midday.",
-mourning: "Abstract noun: a period of sadness after someone dies.",
-necessary: "Adjective: when something is required.",
-vacancy: "Abstract noun: an available space.",
+
+//tenth set of spellings (23 Feb 2024)
+resign: "Verb: to leave a job or position",
+roar: "Noun: a loud, deep sound made by a wild animal", 
+rose: "Meaning 1. Noun: a flower that is often red and often used to symbolise love. Meaning 2. Verb: the simple past tense of 'rise'.", 
+rows: "Meaning 1. Noun: people or things arranged in a line Meaning 2. Verb: the action of propelling a boat using oars. Meaning 3. Verb: quarrelling (arguing verbally).", 
+sacrificial: "Adjective: an action or offering made with the intention of giving up something valuable or important for the sake of others.",
+sight: "Noun: the ability to see.",
+site: "Noun: a location where something, such as a building or event, occurs or is planned to happen e.g. a camp____.",
+sign: "Meaning 1. Noun: a visible clue giving information, direction, or warning. Meaning 2. Verb: to make a gesture that gives information.", 
+// sufferance: "",
+// superficial: "", 
+// superstitious: "",
+// thorough: "", 
+// trough: "",
+// unreasonable: "", 
+// unreliable: "",
+
+  //ninth set of spellings (13 Feb 2024)
+// fasten: "Verb: to do up or make tighter.", 
+// kneed: "Verb (past tense): to hit someone with your knee.",
+// knead: "Verb: to massage dough with your hands when cooking.",
+// kneel: "Verb: to get on your knees",
+// knitted: "Verb (past tense): made of wool",
+// knight: "Concete noun: an armoured soldier from the Middle Ages.",
+// knowledge: "Abstract noun: information that someone knows.",
+// language: "Abstract noun: words and grammatical rules that set out how groups of people from different countries communicate with each other.",
+// lightning: "Noun: a weather phenomenon that causes a flash of light in the sky.",
+// malicious: "Adjective: someone who intends to do harm.",
+// mischievous: "Adjective: someone who likes to misbehave in a playful way.",
+// misconceived: "Adjective: wrongly planned or judged.",
+// morning: "Abstract noun: the period of time before midday.",
+// mourning: "Abstract noun: a period of sadness after someone dies.",
+// necessary: "Adjective: when something is required.",
+// vacancy: "Abstract noun: an available space.",
 
   //eight set of spellings (from 26 Jan 2024)
 
